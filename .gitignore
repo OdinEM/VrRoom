@@ -1,0 +1,99 @@
+##########################################
+# Unity generated folders and files
+##########################################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+VrRoom/
+
+
+# Cache and build data
+MemoryCaptures/
+BuildReports/
+.crashreport/
+*.stacktrace
+
+##########################################
+# Visual Studio / Rider / IDE files
+##########################################
+
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+
+##########################################
+# OS generated files
+##########################################
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+##########################################
+# Others
+##########################################
+
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Rider-specific files
+.idea/
+*.sln.iml
+
+# JetBrains Rider Plugin
+/.resharper*/
+*_Resharper*/
+
+
+
+##########################################
+# Ignore Android/iOS build artifacts
+##########################################
+
+.gradle/
+.gradle-cache/
+**/build/
+*.apk
+*.aab
+*.obb
+
+# iOS Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xcscheme
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.sym
+
+# Il2cpp artifacts
+Il2CppBuildCache/
+
+##########################################
+# Ignore Git LFS pointer files (optional)
+##########################################
+*.psd
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.tga
+*.fbx
+*.png
+*.jpg
+*.jpeg
